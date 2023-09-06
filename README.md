@@ -1,4 +1,4 @@
-# Your project name
-Your given and family name.
+# Better Bookmarks
+Morgan Kruger
 
-A one-sentence description of your project.
+A firefox extension designed to make bookmark management more efficient.
