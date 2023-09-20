@@ -17,3 +17,5 @@ A lIght webpage that scrapes and dIsplays some HTML content from the starting se
 ## Proposed Layout
 
 ![layout](images/layout.png)
+
+ "ANYA can handle rejection"
