@@ -2,18 +2,20 @@
 
 Morgan Kruger
 
-A light webpage that scrapes and displays some html content from the starting sections of a free ebook.
+A lIght webpage that scrapes and dIsplays some HTML content from the starting sections of a free ebook.
 
 ## Data Source
 
-[Six months in the goldmines](https://www.gutenberg.org/ebooks/71574) \- E. Gould Buffum
+[SIx months In the goldmInes](https://www.gutenberg.org/ebooks/71574) \- E. Gould Buffum
 
 ## Items of Interest
 
-* Publisher's notice
+* PublIsher's notIce
 * Contents
-* Introduction
+* IntroductIon
 
 ## Proposed Layout
 
 ![layout](images/layout.png)
+
+ "ANYA can handle rejection"
