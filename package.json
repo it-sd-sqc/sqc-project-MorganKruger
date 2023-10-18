@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.9",
-    "html-validate": "^8.5.0",
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {
+    "html-validate": "^8.6.0",
     "standard": "^17.1.0",
-    "stylelint": "^15.10.3"
+    "stylelint": "^15.11.0"
   }
 }
